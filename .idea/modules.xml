@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/begin-react.iml" filepath="$PROJECT_DIR$/.idea/begin-react.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mashup-todolist/.idea/mashup-todolist.iml" filepath="$PROJECT_DIR$/../mashup-todolist/.idea/mashup-todolist.iml" />
     </modules>
   </component>
 </project>
